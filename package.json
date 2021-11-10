@@ -1,0 +1,11 @@
+{
+  "main": "src/demo/TreeDemo.js",
+  "dependencies": {
+    "react-transition-group": "^4.4.1",
+    "react-dom": "^17.0.1",
+    "react": "^17.0.1",
+    "primereact": "^7.0.0",
+    "primeicons": "^5.0.0",
+    "primeflex": "2.0.0"
+  }
+}
